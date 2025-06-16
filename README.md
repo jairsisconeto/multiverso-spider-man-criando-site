@@ -1,4 +1,6 @@
-# 🕷️ Multiverso Spider-Man — Criando um Site com HTML, CSS e JavaScript  
+#  Multiverso Spider-Man 
+
+## 🕷️ Criando um Site com HTML, CSS e JavaScript  
 
 Este projeto consiste na criação de uma **homepage interativa** inspirada no universo do **Multiverso Spider-Man**, desenvolvida com **HTML, CSS e JavaScript**. Ao longo do desenvolvimento, foram explorados conceitos modernos de estilização, interatividade e responsividade, incluindo um **carrossel 3D** e componentes dinâmicos para navegação.
 
@@ -39,4 +41,4 @@ Durante a construção do projeto, explorei diversas técnicas e conceitos funda
 ## 📌 Como executar o projeto  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https:https://github.com/jairsisconeto/multiverso-spider-man-criando-site
